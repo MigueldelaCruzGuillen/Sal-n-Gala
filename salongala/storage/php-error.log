@@ -1,0 +1,2 @@
+[15-May-2026 10:01:32 America/Santo_Domingo] PHP Warning:  session_start(): open(C:\Xampp1\tmp\sess_ml7uaeesn5vlkgpk1jvhfrrt15, O_RDWR) failed: Permission denied (13) in C:\Users\Admin\Documents\Codex\2026-05-14\crea-una-landing-page-premium-y\professional_site\app\bootstrap.php on line 21
+[15-May-2026 10:01:32 America/Santo_Domingo] PHP Warning:  session_start(): Failed to read session data: files (path: C:\Xampp1\tmp) in C:\Users\Admin\Documents\Codex\2026-05-14\crea-una-landing-page-premium-y\professional_site\app\bootstrap.php on line 21
